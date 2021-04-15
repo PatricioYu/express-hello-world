@@ -13,5 +13,13 @@
     "express": "^4.17.1"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatricioYu/express-hello-world.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PatricioYu/express-hello-world/issues"
+  },
+  "homepage": "https://github.com/PatricioYu/express-hello-world#readme",
   "description": ""
 }
